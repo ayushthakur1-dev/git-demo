@@ -1,6 +1,6 @@
 # team_profile.py
 
-team_name = "Code Warriors"
+team_name = "Code Warriors Pro"
 
 
 #Change
